@@ -11,11 +11,11 @@ app.use(logger);
 // });
 
 // app.get('/test2',function(req,res){
-//     res.sendFile(__dirname+'/public/index.html');
 // })
 var blocks ={'Fixed':'Fastened in place',
              'Moveable':'Capable of being moved',
              'Rotating':'Moving in a circle around its centr'};
+             
 app.use(express.static('public'));
  
 app.param('name',function(req,res,next){
