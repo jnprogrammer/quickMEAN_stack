@@ -1,0 +1,24 @@
+{
+  "name": "quickmeanstack",
+  "version": "1.0.0",
+  "description": "a Quick rundown of mean stack",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnprogrammer/quickMEAN_stack.git"
+  },
+  "keywords": [
+    "MEAN"
+  ],
+  "author": "Joshua Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnprogrammer/quickMEAN_stack/issues"
+  },
+  "homepage": "https://github.com/jnprogrammer/quickMEAN_stack#readme"
+}
